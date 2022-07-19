@@ -1,0 +1,10 @@
+.navbar{
+  background-color: blue;
+}
+.navbar ul{
+    list-style: none;
+}
+.navbar ul li{
+    display: inline;
+    margin-right: 1em;
+}
